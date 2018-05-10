@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="bibletohtml.xsl"?>
+<bible>
+  <old_testament>
+    <pentateuch>
+      <book chapters="50" title="Genesis">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+        <chapter num="25"></chapter>
+        <chapter num="26"></chapter>
+        <chapter num="27"></chapter>
+        <chapter num="28"></chapter>
+        <chapter num="29"></chapter>
+        <chapter num="30"></chapter>
+        <chapter num="31"></chapter>
+        <chapter num="32"></chapter>
+        <chapter num="33"></chapter>
+        <chapter num="34"></chapter>
+        <chapter num="35"></chapter>
+        <chapter num="36"></chapter>
+        <chapter num="37"></chapter>
+        <chapter num="38"></chapter>
+        <chapter num="39"></chapter>
+        <chapter num="40"></chapter>
+        <chapter num="41"></chapter>
+        <chapter num="42"></chapter>
+        <chapter num="43"></chapter>
+        <chapter num="44"></chapter>
+        <chapter num="45"></chapter>
+        <chapter num="46"></chapter>
+        <chapter num="47"></chapter>
+        <chapter num="48"></chapter>
+        <chapter num="49"></chapter>
+        <chapter num="50"></chapter>
+      </book>
+      <book chapters="40" title="Exodus">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21">
+          <section title="The Law Concerning Servants"></section>
+          <section title="The Law Concerning Violence"></section>
+          <section title="Animal Control Laws"></section>
+        </chapter>
+        <chapter num="22">
+          <section title="Responsibility for Property"></section>
+          <section title="Moral and Ceremonial Principles"></section>
+        </chapter>
+        <chapter num="23">
+          <section title="Justice for All"></section>
+          <section title="The Law of Sabbaths"></section>
+          <section title="Three Annual Feasts"></section>
+          <section title="The Angel and the Promises"></section>
+        </chapter>
+        <chapter num="24">
+          <section title="Israel Affirms the Covenant"></section>
+          <section title="On the Mountain with God"></section>
+        </chapter>
+        <chapter num="25">
+          <section title="Offerings for the Sanctuary"></section>
+          <section title="The Ark of the Testimony"></section>
+          <section title="The Table for the Showbread"></section>
+          <section title="The Gold Lampstand"></section>
+        </chapter>
+        <chapter num="26">
+          <section title="The Tabernacle"></section>
+        </chapter>
+        <chapter num="27">
+          <section title="The Altar of Burnt Offering"></section>
+          <section title="The Court of the Tabernacle"></section>
+          <section title="The Care of the Lampstand"></section>
+        </chapter>
+        <chapter num="28"></chapter>
+        <chapter num="29"></chapter>
+        <chapter num="30"></chapter>
+        <chapter num="31"></chapter>
+        <chapter num="32"></chapter>
+        <chapter num="33"></chapter>
+        <chapter num="34"></chapter>
+        <chapter num="35"></chapter>
+        <chapter num="36"></chapter>
+        <chapter num="37"></chapter>
+        <chapter num="38"></chapter>
+        <chapter num="39"></chapter>
+        <chapter num="40"></chapter>
+      </book>
+      <book chapters="27" title="Leviticus">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+        <chapter num="25"></chapter>
+        <chapter num="26"></chapter>
+        <chapter num="27"></chapter>
+      </book>
+      <book chapters="36" title="Numbers">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+        <chapter num="25"></chapter>
+        <chapter num="26"></chapter>
+        <chapter num="27"></chapter>
+        <chapter num="28"></chapter>
+        <chapter num="29"></chapter>
+        <chapter num="30"></chapter>
+        <chapter num="31"></chapter>
+        <chapter num="32"></chapter>
+        <chapter num="33"></chapter>
+        <chapter num="34"></chapter>
+        <chapter num="35"></chapter>
+        <chapter num="36"></chapter>
+      </book>
+      <book chapters="34" title="Deuteronomy">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+        <chapter num="25"></chapter>
+        <chapter num="26"></chapter>
+        <chapter num="27"></chapter>
+        <chapter num="28"></chapter>
+        <chapter num="29"></chapter>
+        <chapter num="30"></chapter>
+        <chapter num="31"></chapter>
+        <chapter num="32"></chapter>
+        <chapter num="33"></chapter>
+        <chapter num="34"></chapter>
+      </book>
+    </pentateuch>
+    <history>
+      <book chapters="24" title="Joshua">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+      </book>
+      <book chapters="21" title="Judges">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+      </book>
+      <book chapters="4" title="Ruth">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+      </book>
+      <book chapters="31" title="1 Samuel">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+        <chapter num="25"></chapter>
+        <chapter num="26"></chapter>
+        <chapter num="27"></chapter>
+        <chapter num="28"></chapter>
+        <chapter num="29"></chapter>
+        <chapter num="30"></chapter>
+        <chapter num="31"></chapter>
+      </book>
+      <book chapters="24" title="2 Samuel">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+      </book>
+      <book chapters="22" title="1 Kings">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+      </book>
+      <book chapters="25" title="2 Kings">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+        <chapter num="25"></chapter>
+      </book>
+      <book chapters="29" title="1 Chronicles">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+        <chapter num="25"></chapter>
+        <chapter num="26"></chapter>
+        <chapter num="27"></chapter>
+        <chapter num="28"></chapter>
+        <chapter num="29"></chapter>
+      </book>
+      <book chapters="36" title="2 Chronicles">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+        <chapter num="25"></chapter>
+        <chapter num="26"></chapter>
+        <chapter num="27"></chapter>
+        <chapter num="28"></chapter>
+        <chapter num="29"></chapter>
+        <chapter num="30"></chapter>
+        <chapter num="31"></chapter>
+        <chapter num="32"></chapter>
+        <chapter num="33"></chapter>
+        <chapter num="34"></chapter>
+        <chapter num="35"></chapter>
+        <chapter num="36"></chapter>
+      </book>
+      <book chapters="10" title="Ezra">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+      </book>
+      <book chapters="13" title="Nehemiah">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+      </book>
+      <book chapters="10" title="Esther">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+      </book>
+    </history>
+    <wisdom>
+      <book chapters="42" title="Job">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+        <chapter num="25"></chapter>
+        <chapter num="26"></chapter>
+        <chapter num="27"></chapter>
+        <chapter num="28"></chapter>
+        <chapter num="29"></chapter>
+        <chapter num="30"></chapter>
+        <chapter num="31"></chapter>
+        <chapter num="32"></chapter>
+        <chapter num="33"></chapter>
+        <chapter num="34"></chapter>
+        <chapter num="35"></chapter>
+        <chapter num="36"></chapter>
+        <chapter num="37"></chapter>
+        <chapter num="38"></chapter>
+        <chapter num="39"></chapter>
+        <chapter num="40"></chapter>
+        <chapter num="41"></chapter>
+        <chapter num="42"></chapter>
+      </book>
+      <book chapters="150" title="Psalms">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+        <chapter num="25"></chapter>
+        <chapter num="26"></chapter>
+        <chapter num="27"></chapter>
+        <chapter num="28"></chapter>
+        <chapter num="29"></chapter>
+        <chapter num="30"></chapter>
+        <chapter num="31"></chapter>
+        <chapter num="32"></chapter>
+        <chapter num="33"></chapter>
+        <chapter num="34"></chapter>
+        <chapter num="35"></chapter>
+        <chapter num="36"></chapter>
+        <chapter num="37"></chapter>
+        <chapter num="38"></chapter>
+        <chapter num="39"></chapter>
+        <chapter num="40"></chapter>
+        <chapter num="41"></chapter>
+        <chapter num="42"></chapter>
+        <chapter num="43"></chapter>
+        <chapter num="44"></chapter>
+        <chapter num="45"></chapter>
+        <chapter num="46"></chapter>
+        <chapter num="47"></chapter>
+        <chapter num="48"></chapter>
+        <chapter num="49"></chapter>
+        <chapter num="50"></chapter>
+        <chapter num="51"></chapter>
+        <chapter num="52"></chapter>
+        <chapter num="53"></chapter>
+        <chapter num="54"></chapter>
+        <chapter num="55"></chapter>
+        <chapter num="56"></chapter>
+        <chapter num="57"></chapter>
+        <chapter num="58"></chapter>
+        <chapter num="59"></chapter>
+        <chapter num="60"></chapter>
+        <chapter num="61"></chapter>
+        <chapter num="62"></chapter>
+        <chapter num="63"></chapter>
+        <chapter num="64"></chapter>
+        <chapter num="65"></chapter>
+        <chapter num="66"></chapter>
+        <chapter num="67"></chapter>
+        <chapter num="68"></chapter>
+        <chapter num="69"></chapter>
+        <chapter num="70"></chapter>
+        <chapter num="71"></chapter>
+        <chapter num="72"></chapter>
+        <chapter num="73"></chapter>
+        <chapter num="74"></chapter>
+        <chapter num="75"></chapter>
+        <chapter num="76"></chapter>
+        <chapter num="77"></chapter>
+        <chapter num="78"></chapter>
+        <chapter num="79"></chapter>
+        <chapter num="80"></chapter>
+        <chapter num="81"></chapter>
+        <chapter num="82"></chapter>
+        <chapter num="83"></chapter>
+        <chapter num="84"></chapter>
+        <chapter num="85"></chapter>
+        <chapter num="86"></chapter>
+        <chapter num="87"></chapter>
+        <chapter num="88"></chapter>
+        <chapter num="89"></chapter>
+        <chapter num="90"></chapter>
+        <chapter num="91"></chapter>
+        <chapter num="92"></chapter>
+        <chapter num="93"></chapter>
+        <chapter num="94"></chapter>
+        <chapter num="95"></chapter>
+        <chapter num="96"></chapter>
+        <chapter num="97"></chapter>
+        <chapter num="98"></chapter>
+        <chapter num="99"></chapter>
+        <chapter num="100"></chapter>
+        <chapter num="101"></chapter>
+        <chapter num="102"></chapter>
+        <chapter num="103"></chapter>
+        <chapter num="104"></chapter>
+        <chapter num="105"></chapter>
+        <chapter num="106"></chapter>
+        <chapter num="107"></chapter>
+        <chapter num="108"></chapter>
+        <chapter num="109"></chapter>
+        <chapter num="110"></chapter>
+        <chapter num="111"></chapter>
+        <chapter num="112"></chapter>
+        <chapter num="113"></chapter>
+        <chapter num="114"></chapter>
+        <chapter num="115"></chapter>
+        <chapter num="116"></chapter>
+        <chapter num="117"></chapter>
+        <chapter num="118"></chapter>
+        <chapter num="119"></chapter>
+        <chapter num="120"></chapter>
+        <chapter num="121"></chapter>
+        <chapter num="122"></chapter>
+        <chapter num="123"></chapter>
+        <chapter num="124"></chapter>
+        <chapter num="125"></chapter>
+        <chapter num="126"></chapter>
+        <chapter num="127"></chapter>
+        <chapter num="128"></chapter>
+        <chapter num="129"></chapter>
+        <chapter num="130"></chapter>
+        <chapter num="131"></chapter>
+        <chapter num="132"></chapter>
+        <chapter num="133"></chapter>
+        <chapter num="134"></chapter>
+        <chapter num="135"></chapter>
+        <chapter num="136"></chapter>
+        <chapter num="137"></chapter>
+        <chapter num="138"></chapter>
+        <chapter num="139"></chapter>
+        <chapter num="140"></chapter>
+        <chapter num="141"></chapter>
+        <chapter num="142"></chapter>
+        <chapter num="143"></chapter>
+        <chapter num="144"></chapter>
+        <chapter num="145"></chapter>
+        <chapter num="146"></chapter>
+        <chapter num="147"></chapter>
+        <chapter num="148"></chapter>
+        <chapter num="149"></chapter>
+        <chapter num="150"></chapter>
+      </book>
+      <book chapters="31" title="Proverbs">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+        <chapter num="25"></chapter>
+        <chapter num="26"></chapter>
+        <chapter num="27"></chapter>
+        <chapter num="28"></chapter>
+        <chapter num="29"></chapter>
+        <chapter num="30"></chapter>
+        <chapter num="31"></chapter>
+      </book>
+      <book chapters="12" title="Ecclesiastes">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+      </book>
+      <book chapters="8" title="Song of Solomon">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+      </book>
+    </wisdom>
+    <prophecy>
+      <book chapters="66" title="Isaiah">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+        <chapter num="25"></chapter>
+        <chapter num="26"></chapter>
+        <chapter num="27"></chapter>
+        <chapter num="28"></chapter>
+        <chapter num="29"></chapter>
+        <chapter num="30"></chapter>
+        <chapter num="31"></chapter>
+        <chapter num="32"></chapter>
+        <chapter num="33"></chapter>
+        <chapter num="34"></chapter>
+        <chapter num="35"></chapter>
+        <chapter num="36"></chapter>
+        <chapter num="37"></chapter>
+        <chapter num="38"></chapter>
+        <chapter num="39"></chapter>
+        <chapter num="40"></chapter>
+        <chapter num="41"></chapter>
+        <chapter num="42"></chapter>
+        <chapter num="43"></chapter>
+        <chapter num="44"></chapter>
+        <chapter num="45"></chapter>
+        <chapter num="46"></chapter>
+        <chapter num="47"></chapter>
+        <chapter num="48"></chapter>
+        <chapter num="49"></chapter>
+        <chapter num="50"></chapter>
+        <chapter num="51"></chapter>
+        <chapter num="52"></chapter>
+        <chapter num="53"></chapter>
+        <chapter num="54"></chapter>
+        <chapter num="55"></chapter>
+        <chapter num="56"></chapter>
+        <chapter num="57"></chapter>
+        <chapter num="58"></chapter>
+        <chapter num="59"></chapter>
+        <chapter num="60"></chapter>
+        <chapter num="61"></chapter>
+        <chapter num="62"></chapter>
+        <chapter num="63"></chapter>
+        <chapter num="64"></chapter>
+        <chapter num="65"></chapter>
+        <chapter num="66"></chapter>
+      </book>
+      <book chapters="52" title="Jeremiah">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+        <chapter num="25"></chapter>
+        <chapter num="26"></chapter>
+        <chapter num="27"></chapter>
+        <chapter num="28"></chapter>
+        <chapter num="29"></chapter>
+        <chapter num="30"></chapter>
+        <chapter num="31"></chapter>
+        <chapter num="32"></chapter>
+        <chapter num="33"></chapter>
+        <chapter num="34"></chapter>
+        <chapter num="35"></chapter>
+        <chapter num="36"></chapter>
+        <chapter num="37"></chapter>
+        <chapter num="38"></chapter>
+        <chapter num="39"></chapter>
+        <chapter num="40"></chapter>
+        <chapter num="41"></chapter>
+        <chapter num="42"></chapter>
+        <chapter num="43"></chapter>
+        <chapter num="44"></chapter>
+        <chapter num="45"></chapter>
+        <chapter num="46"></chapter>
+        <chapter num="47"></chapter>
+        <chapter num="48"></chapter>
+        <chapter num="49"></chapter>
+        <chapter num="50"></chapter>
+        <chapter num="51"></chapter>
+        <chapter num="52"></chapter>
+      </book>
+      <book chapters="5" title="Lamentations">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+      </book>
+      <book chapters="48" title="Ezekiel">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+        <chapter num="25"></chapter>
+        <chapter num="26"></chapter>
+        <chapter num="27"></chapter>
+        <chapter num="28"></chapter>
+        <chapter num="29"></chapter>
+        <chapter num="30"></chapter>
+        <chapter num="31"></chapter>
+        <chapter num="32"></chapter>
+        <chapter num="33"></chapter>
+        <chapter num="34"></chapter>
+        <chapter num="35"></chapter>
+        <chapter num="36"></chapter>
+        <chapter num="37"></chapter>
+        <chapter num="38"></chapter>
+        <chapter num="39"></chapter>
+        <chapter num="40"></chapter>
+        <chapter num="41"></chapter>
+        <chapter num="42"></chapter>
+        <chapter num="43"></chapter>
+        <chapter num="44"></chapter>
+        <chapter num="45"></chapter>
+        <chapter num="46"></chapter>
+        <chapter num="47"></chapter>
+        <chapter num="48"></chapter>
+      </book>
+      <book chapters="12" title="Daniel">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+      </book>
+      <book chapters="14" title="Hosea">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+      </book>
+      <book chapters="3" title="Joel">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+      </book>
+      <book chapters="9" title="Amos">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+      </book>
+      <book chapters="1" title="Obadiah">
+        <chapter num="1">
+          <section title="The Coming Judgment on Edom">
+            <verse num="1">The vision of Obadiah. Thus says the Lord God <ref_list>Is. 21:11; Ezek. 25:12; Joel 3:19; Mal. 1:3</ref_list>concerning Edom <ref_list>Jer. 49:14–16; Obad. 1–4</ref_list>(We have heard a report from the Lord, And a messenger has been sent among the nations, saying, “Arise, and let us rise up against her for battle”):</verse>
+            <verse num="2">“Behold, I will make you small among the nations; You shall be greatly despised. </verse>
+            <verse num="3">The <ref_list>Is. 16:6; Jer. 49:16</ref_list>pride of your heart has deceived you, You who dwell in the clefts of the rock, Whose habitation is high; <ref_list>Is. 14:13–15; Rev. 18:7</ref_list>You who say in your heart, ‘Who will bring me down to the ground?’</verse>
+            <verse num="4"><ref_list>Job 20:6</ref_list>Though you ascend as high as the eagle, And though you <ref_list>Hab. 2:9; Mal. 1:4</ref_list>set your nest among the stars, From there I will bring you down,” says the Lord.</verse>
+            <verse num="5">“If <ref_list>Jer. 49:9</ref_list>thieves had come to you, If robbers by night— Oh, how you will be cut off!— Would they not have stolen till they had enough? If grape-gatherers had come to you, <ref_list>Deut. 24:21</ref_list>Would they not have left some gleanings?</verse>
+            <verse num="6">“Oh, how Esau shall be searched out! How his hidden treasures shall be sought after! </verse>
+            <verse num="7">All the men in your confederacy hall force you to the border; <ref_list>Jer. 38:22</ref_list>The men at peace with you Shall deceive you and prevail against you. Those who eat your bread shall lay a trap for you. <ref_list>Is. 19:11; Jer. 49:7</ref_list>No one is aware of it.</verse>
+            <verse num="8">“Will<ref_list>(Job 5:12–14); Is. 29:14</ref_list> I not in that day,” says the Lord, “Even destroy the wise men from Edom, And understanding from the mountains of Esau?</verse>
+            <verse num="9">Then your <ref_list>Ps. 76:5</ref_list>mighty men, O <ref_list>Gen. 36:11; 1 Chr. 1:45; Job 2:11; Jer. 49:7</ref_list>Teman, shall be dismayed, To the end that everyone from the mountains of Esau May be cut off by slaughter.</verse>
+          </section>
+          <section title="Edom Mistreated His Brother">
+            <verse num="10">“For <ref_list>Gen. 27:41; Ezek. 25:12; Amos 1:11</ref_list>violence against your brother Jacob, Shame shall cover you, And <ref_list>Ezek. 35:9; Joel 3:19</ref_list>you shall be cut off forever. </verse>
+            <verse num="11">In the day that you <ref_list>Ps. 83:5–8; Amos 1:6, 9</ref_list>stood on the other side— In the day that strangers carried captive his forces, When foreigners entered his gates And <ref_list>Joel 3:3; Nah. 3:10</ref_list>cast lots for Jerusalem— Even you were as one of them. </verse>
+            <verse num="12">“But you should not have <ref_list>Mic. 4:11; 7:10</ref_list>gazed on the day of your brother In the day of his captivity; Nor should you have <ref_list>(Prov. 17:5); Ezek. 35:15; 36:5</ref_list>rejoiced over the children of Judah In the day of their destruction; Nor should you have spoken proudly In the day of distress.</verse>
+            <verse num="13">You should not have entered the gate of My people In the day of their calamity. Indeed, you should not have gazed on their affliction In the day of their calamity, Nor laid hands on their substance In the day of their calamity. </verse>
+            <verse num="14">You should not have stood at the crossroads To cut off those among them who escaped; Nor should you have delivered up those among them who remained In the day of distress. </verse>
+            <verse num="15">“For<ref_list>Ezek. 30:3; (Joel 1:15; 2:1, 11, 31; Amos 5:18, 20)</ref_list> the day of the Lord upon all the nations is near; <ref_list>Jer. 50:29; 51:56; Hab. 2:8</ref_list>As you have done, it shall be done to you; Your reprisal shall return upon your own head. </verse>
+            <verse num="16"><ref_list>Joel 3:17</ref_list>For as you drank on My holy mountain, So shall all the nations drink continually; Yes, they shall drink, and swallow, And they shall be as though they had never been.</verse>
+          </section>
+          <section title="Israel’s Final Triumph">
+            <verse num="17">“But on Mount Zion there <ref_list>Is. 14:1, 2; Joel 2:32; Amos 9:8</ref_list>shall be deliverance, And there shall be holiness; The house of Jacob shall possess their possessions.</verse>
+            <verse num="18">The house of Jacob shall be a fire, And the house of Joseph <ref_list>Is. 5:24; 9:18, 19; Zech. 12:6</ref_list>a flame; But the house of Esau shall be stubble; They shall kindle them and devour them, And no survivor shall remain of the house of Esau,” For the Lord has spoken.</verse>
+            <verse num="19">The South <ref_list>Is. 11:14; Amos 9:12</ref_list>shall possess the mountains of Esau, <ref_list>Zeph. 2:7</ref_list>And the Lowland shall possess Philistia. They shall possess the fields of Ephraim And the fields of Samaria. Benjamin shall possess Gilead.</verse>
+            <verse num="20">And the captives of this host of the children of Israel Shall possess the land of the Canaanites As <ref_list>1 Kin. 17:9; Luke 4:26</ref_list>far as Zarephath. The captives of Jerusalem who are in Sepharad <ref_list>Jer. 32:44</ref_list>Shall possess the cities of the South.</verse>
+            <verse num="21">Then <ref_list>(James 5:20)</ref_list>saviors shall come to Mount Zion To judge the mountains of Esau, And the <ref_list>Ps. 22:28; (Dan. 2:44; 7:14; Zech. 14:9; Rev. 11:15)</ref_list>kingdom shall be the Lord’s.</verse>
+          </section>
+        </chapter>
+      </book>
+      <book chapters="4" title="Jonah">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+      </book>
+      <book chapters="7" title="Micah">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+      </book>
+      <book chapters="3" title="Nahum">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+      </book>
+      <book chapters="3" title="Habakkuk">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+      </book>
+      <book chapters="3" title="Zephaniah">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+      </book>
+      <book chapters="2" title="Haggai">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+      </book>
+      <book chapters="14" title="Zechariah">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+      </book>
+      <book chapters="4" title="Malachi">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+      </book>
+    </prophecy>
+  </old_testament>
+  <new_testament>
+    <gospel>
+      <book chapters="28" title="Matthew">
+        <chapter num="1">
+          <section title="The Genealogy of Jesus Christ"></section>
+          <section title="Christ Born of Mary"></section>
+        </chapter>
+        <chapter num="2">
+          <section title="Wise Men from the East"></section>
+          <section title="The Flight into Egypt"></section>
+          <section title="Massacre of the Innocents"></section>
+          <section title="The Home in Nazareth"></section>
+        </chapter>
+        <chapter num="3">
+          <section title="John the Baptist Prepares the Way"></section>
+          <section title="John Baptizes Jesus"></section>
+        </chapter>
+        <chapter num="4">
+          <section title="Satan Tempts Jesus"></section>
+          <section title="Juses Begins His Galilean Ministry"></section>
+          <section title="Four Fishermen Called as Disciples"></section>
+          <section title="Jesus Heals a Great Multitude"></section>
+        </chapter>
+        <chapter num="5">
+          <section title="The Beatitudes"></section>
+          <section title="Believers Are Salt and Light"></section>
+          <section title="Christ Fulfills the Law"></section>
+          <section title="Murder Begins in the Heart"></section>
+          <section title="Adultery in the Heart"></section>
+          <section title="Marriage Is Sacred and Binding"></section>
+          <section title="Jesus Forbids Oaths"></section>
+          <section title="Go the Second Mile"></section>
+          <section title="Love Your Enemies"></section>
+        </chapter>
+        <chapter num="6">
+          <section title="Do Good to Please God"></section>
+          <section title="The Model Prayer"></section>
+          <section title="Fasting to Be Seen Only by God"></section>
+          <section title="Lay Up Treasures in Heaven"></section>
+          <section title="The Lamp of the Body"></section>
+          <section title="You Cannot Serve God and Riches"></section>
+          <section title="Do Not Worry"></section>
+        </chapter>
+        <chapter num="7">
+          <section title="Do Not Judge"></section>
+          <section title="Keep Asking, Seeking, Knocking"></section>
+          <section title="The Narrow Way"></section>
+          <section title="You Will Know Them by Their Fruits"></section>
+          <section title="I Never Knew You"></section>
+          <section title="Build on the Rock"></section>
+        </chapter>
+        <chapter num="8">
+          <section title="Jesus Cleanses a Leper"></section>
+          <section title="Jesus Heals a Centurion's Servant"></section>
+          <section title="Peter's Mother-in-Law Healed"></section>
+          <section title="Many Healed in the Evening"></section>
+          <section title="The Cost of Discipleship"></section>
+          <section title="Wind and Wave Obey Jesus"></section>
+          <section title="Two Demon-Possessed Men Healed"></section>
+        </chapter>
+        <chapter num="9">
+          <section title="Jesus Forgives and Heals a Paralytic"></section>
+          <section title="Matthew the Tax Collector"></section>
+          <section title="Jesus is Questioned About Fasting"></section>
+          <section title="A Girl Restored to Life and a Woman Healed"></section>
+          <section title="Two Blind Men Healed"></section>
+          <section title="A Mute Man Speaks"></section>
+          <section title="The Compassion of Jesus"></section>
+        </chapter>
+        <chapter num="10">
+          <section title="The Twelve Apostles"></section>
+          <section title="Sending Out the Twelve"></section>
+          <section title="Persecutions Are Coming"></section>
+          <section title="Jesus Teaches the Fear of God"></section>
+          <section title="Confess Christ Before Men"></section>
+          <section title="Christ Brings Division"></section>
+          <section title="A Cup of Cold Water"></section>
+        </chapter>
+        <chapter num="11">
+          <section title="John the Baptist Sends Messengeres to Jesus"></section>
+          <section title="Woe to the Impenitent Cities"></section>
+          <section title="Jesus Gives True Rest"></section>
+        </chapter>
+        <chapter num="12">
+          <section title="Jesus Is Lord of the Sabbath"></section>
+          <section title="Healing on the Sabbath"></section>
+          <section title="Behold, My Servant"></section>
+          <section title="A House Divided Cannot Stand"></section>
+          <section title="The Unpardonable Sin"></section>
+          <section title="A Tree Known by Its Fruit"></section>
+          <section title="The Scribes and Pharisees Ask for a Sign"></section>
+          <section title="An Unclean Spirit Returns"></section>
+          <section title="Jesus' Mother and Brothers Send for Him"></section>
+        </chapter>
+        <chapter num="13">
+          <section title="The Parable of the Sower"></section>
+          <section title="The Purpose of Parables"></section>
+          <section title="The Parable of the Sower Explained"></section>
+          <section title="The Parable of the Wheat and the Tares"></section>
+          <section title="The Parable of the Mustard Seed"></section>
+          <section title="The Parable of the Leaven"></section>
+          <section title="Prophecy and the Parables"></section>
+          <section title="The Parables of the Tares Explained"></section>
+          <section title="The Parable of the Hidden Treasure"></section>
+          <section title="The Parable of the Pearl of Great Price"></section>
+          <section title="The Parable of the Dragnet"></section>
+          <section title="Jesus Rejected at Nazareth"></section>
+        </chapter>
+        <chapter num="14">
+          <section title="John the Baptist Beheaded"></section>
+          <section title="Feeding the Five Thousand"></section>
+          <section title="Jesus Walks on the Sea"></section>
+          <section title="Many Touch Him and Are Made Well"></section>
+        </chapter>
+        <chapter num="15">
+        </chapter>
+        <chapter num="16">
+        </chapter>
+        <chapter num="17">
+        </chapter>
+        <chapter num="18">
+        </chapter>
+        <chapter num="19">
+        </chapter>
+        <chapter num="20">
+        </chapter>
+        <chapter num="21">
+        </chapter>
+        <chapter num="22">
+        </chapter>
+        <chapter num="23">
+        </chapter>
+        <chapter num="24">
+        </chapter>
+        <chapter num="25">
+        </chapter>
+        <chapter num="26">
+        </chapter>
+        <chapter num="27">
+        </chapter>
+        <chapter num="28">
+        </chapter>
+      </book>
+      <book chapters="16" title="Mark">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+      </book>
+      <book chapters="24" title="Luke">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+      </book>
+      <book chapters="21" title="John">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+      </book>
+    </gospel>
+    <history>
+      <book chapters="28" title="Acts">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+        <chapter num="23"></chapter>
+        <chapter num="24"></chapter>
+        <chapter num="25"></chapter>
+        <chapter num="26"></chapter>
+        <chapter num="27"></chapter>
+        <chapter num="28"></chapter>
+      </book>
+    </history>
+    <pauline_epistle>
+      <book chapters="16" title="Romans">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+      </book>
+      <book chapters="16" title="1 Corinthians">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+      </book>
+      <book chapters="13" title="2 Corinthians">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+      </book>
+      <book chapters="6" title="Galatians">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+      </book>
+      <book chapters="6" title="Ephesians">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+      </book>
+      <book chapters="4" title="Philippians">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+      </book>
+      <book chapters="4" title="Colossians">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+      </book>
+      <book chapters="5" title="1 Thessalonians">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+      </book>
+      <book chapters="3" title="2 Thessalonians">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+      </book>
+      <book chapters="6" title="1 Timothy">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+      </book>
+      <book chapters="4" title="2 Timothy">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+      </book>
+      <book chapters="3" title="Titus">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+      </book>
+      <book chapters="1" title="Philemon">
+        <chapter num="1">
+          <section title="Greeting">
+            <verse num="1">Paul, a <ref_list>Eph. 3:1</ref_list>prisoner of Christ Jesus, and Timothy our brother, To Philemon our beloved friend and fellow laborer, </verse>
+            <verse num="2">to the beloved Apphia, <ref_list>Col. 4:17</ref_list>Archippus our fellow soldier, and to the church in your house: </verse>
+            <verse num="3">Grace to you and peace from God our Father and the Lord Jesus Christ. </verse>
+          </section>
+          <section title="Philemon’s Love and Faith">
+            <verse num="4"><ref_list>Eph. 1:16; 1 Thess. 1:22; Thess. 1:3</ref_list>I thank my God, making mention of you always in my prayers, </verse>
+            <verse num="5"><ref_list>Eph. 1:15; Col. 1:4; 1 Thess. 3:6</ref_list>hearing of your love and faith which you have toward the Lord Jesus and toward all the saints, </verse>
+            <verse num="6">that the sharing of your faith may become effective <ref_list>Phil. 1:9; (Col. 1:9; 3:10; James 2:14–17)</ref_list>by the acknowledgment of <ref_list>(1 Thess. 5:18)</ref_list>every good thing which is in you in Christ Jesus. </verse>
+            <verse num="7">For we have great joy and consolation in your love, because the hearts of the saints have been refreshed by you, brother. </verse>
+          </section>
+          <section title="The Plea for Onesimus">
+            <verse num="8">Therefore, though I might be very bold in Christ to command you what is fitting, </verse>
+            <verse num="9">yet for love’s sake I rather appeal to you—being such a one as Paul, the aged, and now also a prisoner of Jesus Christ— </verse>
+            <verse num="10">I appeal to you for my son <ref_list>Col. 4:9</ref_list>Onesimus, whom I have begotten while in my chains, </verse>
+            <verse num="11">who once was unprofitable to you, but now is profitable to you and to me. </verse>
+            <verse num="12">I am sending him back. You therefore receive him, that is, my own heart, </verse>
+            <verse num="13">whom I wished to keep with me, that on your behalf he might minister to me in my chains for the gospel. </verse>
+            <verse num="14">But without your consent I wanted to do nothing, <ref_list>2 Cor. 9:7; 1 Pet. 5:2</ref_list>that your good deed might not be by compulsion, as it were, but voluntary. </verse>
+            <verse num="15">For perhaps he departed for a while for this purpose, that you might receive him forever, </verse>
+            <verse num="16">no longer as a slave but more than a slave—a beloved brother, especially to me but how much more to you, both in the <ref_list>Eph. 6:5; Col. 3:22</ref_list>flesh and in the Lord. </verse>
+          </section>
+          <section title="Philemon’s Obedience Encouraged"></section>
+          <section title="Farewell"></section>
+        </chapter>
+      </book>
+    </pauline_epistle>
+    <general_epistle>
+      <book chapters="13" title="Hebrews">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+      </book>
+      <book chapters="5" title="James">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+      </book>
+      <book chapters="5" title="1 Peter">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+      </book>
+      <book chapters="3" title="2 Peter">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+      </book>
+      <book chapters="5" title="1 John">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+      </book>
+      <book chapters="1" title="2 John">
+        <chapter num="1">
+          <section title="Greeting the Elect Lady"></section>
+          <section title="Walk in Christ’s Commandments"></section>
+          <section title="Beware of Antichrist Deceivers"></section>
+          <section title="John’s Farewell Greeting"></section>
+        </chapter>
+      </book>
+      <book chapters="1" title="3 John">
+        <chapter num="1">
+          <section title="Greeting to Gaius"></section>
+          <section title="Gaius Commended for Generosity"></section>
+          <section title="Diotrephes and Demetrius"></section>
+          <section title="Farewell Greeting"></section>
+        </chapter>
+      </book>
+      <book chapters="1" title="Jude">
+        <chapter num="1">
+          <section title="Greeting to the Called"></section>
+          <section title="Contend for the Faith"></section>
+          <section title="Old and New Apostates"></section>
+          <section title="Apostates Depraved and Doomed"></section>
+          <section title="Apostates Predicted"></section>
+          <section title="Maintain Your Life with God"></section>
+          <section title="Glory to God"></section>
+        </chapter>
+      </book>
+    </general_epistle>
+    <prophecy>
+      <book chapters="22" title="Revelation">
+        <chapter num="1"></chapter>
+        <chapter num="2"></chapter>
+        <chapter num="3"></chapter>
+        <chapter num="4"></chapter>
+        <chapter num="5"></chapter>
+        <chapter num="6"></chapter>
+        <chapter num="7"></chapter>
+        <chapter num="8"></chapter>
+        <chapter num="9"></chapter>
+        <chapter num="10"></chapter>
+        <chapter num="11"></chapter>
+        <chapter num="12"></chapter>
+        <chapter num="13"></chapter>
+        <chapter num="14"></chapter>
+        <chapter num="15"></chapter>
+        <chapter num="16"></chapter>
+        <chapter num="17"></chapter>
+        <chapter num="18"></chapter>
+        <chapter num="19"></chapter>
+        <chapter num="20"></chapter>
+        <chapter num="21"></chapter>
+        <chapter num="22"></chapter>
+      </book>
+    </prophecy>
+  </new_testament>
+</bible>
