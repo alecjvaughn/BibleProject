@@ -4869,7 +4869,7 @@
       </book>
     </collection>
   </collection>
-  <collectin name="New Testament" date-began="" date-complete="">
+  <collection name="New Testament" date-began="" date-complete="">
     <collection name="Gospels" date-began="" date-complete="">
       <book date-began="" date-complete="" chapters="28" title="Matthew">
         <chapter read="" date-read="" num="1">
