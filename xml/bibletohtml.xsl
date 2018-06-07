@@ -6,10 +6,10 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
   <html>
     <head>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta charset="utf-8"/>
+      <meta name="viewport" content="width=device-width, initial-scale=1"/>
       <meta name="description" content="This site is a transformed XML file
-        with information about the Bible.">
+        with information about the Bible."/>
       <title>Books of the Bible</title>
     </head>
     <body style="width:100%;">
@@ -36,11 +36,13 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template name="chapter">
   <xsl:value-of select="chapter"/>
-  <xsl:for-each select="//chapter">
-    <xsl:if test="@read='yes'">
-      <li style="float:left;width:3em;"><input type="checkbox" value="checked"/></li>
+  <xsl:for-each select="chapter">
+    <xsl:if test="@read='true'">
+      <li style="float:left;width:3em;"><input type="checkbox" checked="true"/></li>
     </xsl:if>
-    <li style="float:left;width:3em;"><input type="checkbox"/></li>
+    <xsl:if test="@read!='yes'">
+      <li style="float:left;width:3em;"><input type="checkbox"/></li>
+    </xsl:if>
   </xsl:for-each>
 </xsl:template>
 

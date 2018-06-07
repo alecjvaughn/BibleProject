@@ -4,183 +4,282 @@
   <collection name="Old Testament" date-began="" date-complete="">
     <collection name="Pentateuch" date-began="" date-complete="">
       <book date-began="" date-complete="" chapters="50" title="Genesis">
-        <chapter read="yes" date-read="" num="1">
-          <section title="">
+        <chapter read="true" date-read="" num="1">
+          <section title="The History of Creation">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="2">
-          <section title="">
+          <section continued="true">
+            <verse num=""></verse>
+          </section>
+          <section title="Life in God's Garden">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="3">
-          <section title="">
+          <section title="The Temptation and Fall of Man">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="4">
-          <section title="">
+          <section title="Cain Murders Abel">
+            <verse num=""></verse>
+          </section>
+          <section title="The Family of Cain">
+            <verse num=""></verse>
+          </section>
+          <section title="A New Son">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="5">
-          <section title="">
+          <section title="The Family of Adam">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="6">
-          <section title="">
+          <section title="The Wickedness and Judgement of Man">
+            <verse num=""></verse>
+          </section>
+          <section title="Noah Pleases God">
+            <verse num=""></verse>
+          </section>
+          <section title="The Ark Prepared">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="7">
-          <section title="">
+          <section title="The Great Flood">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="8">
-          <section title="">
+          <section title="Noah's Deliverance">
+            <verse num=""></verse>
+          </section>
+          <section title="God's Covenant with Creation">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="9">
-          <section title="">
+          <section continued="true">
+            <verse num=""></verse>
+          </section>
+          <section title="Noah and His Sons">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="10">
-          <section title="">
+          <section title="Nations Decended from Noah">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="11">
-          <section title="">
+          <section title="The Tower of Babel">
+            <verse num=""></verse>
+          </section>
+          <section title="Shem's Descendants">
+            <verse num=""></verse>
+          </section>
+          <section title="Terah's Descendants">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="12">
-          <section title="">
+          <section title="Promises to Abram">
+            <verse num=""></verse>
+          </section>
+          <section title="Abram in Egypt">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="13">
-          <section title="">
+          <section title="Abram Inherits Canaan">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="14">
-          <section title="">
+          <section title="Lot's Captivity and Rescue">
+            <verse num=""></verse>
+          </section>
+          <section title="Abram and Melchizedek">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="15">
-          <section title="">
+          <section title="God's Covenant with Abram">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="16">
-          <section title="">
+          <section title="Hagarand Ishmael">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="17">
-          <section title="">
+          <section title="The Sign of the Covenant">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="18">
-          <section title="">
+          <section title="The Son of Promise">
+            <verse num=""></verse>
+          </section>
+          <section title="Abraham Intercedes for Sodom">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="19">
-          <section title="">
+          <section title="Sodom's Depravity">
+            <verse num=""></verse>
+          </section>
+          <section title="Sodom and Gormorrah Destroyed">
+            <verse num=""></verse>
+          </section>
+          <section title="The Descendants of Lot">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="20">
-          <section title="">
+          <section title="Abraham and Abimelech">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="21">
-          <section title="">
+          <section title="Isaac is Born">
+            <verse num=""></verse>
+          </section>
+          <section title="Hagar and Ishmael Depart">
+            <verse num=""></verse>
+          </section>
+          <section title="A Covenant with Abimelech">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="22">
-          <section title="">
+          <section title="Abraham's Faith Confirmed">
+            <verse num=""></verse>
+          </section>
+          <section title="The Family of Nahor">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="23">
-          <section title="">
+          <section title="Sarah's Death and Burial">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="24">
-          <section title="">
+          <section title="A Bride for Isaac">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="25">
-          <section title="">
+          <section title="Abraham and Keturah">
+            <verse num=""></verse>
+          </section>
+          <section title="Abraham's Death and Burial">
+            <verse num=""></verse>
+          </section>
+          <section title="The Families of Ishmael and Isaac">
+            <verse num=""></verse>
+          </section>
+          <section title="Esau Sells His Birthright">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="26">
-          <section title="">
+          <section title="Isaac and Abimelech">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="27">
-          <section title="">
+          <section title="Isaac Blesses Jacob">
+            <verse num=""></verse>
+          </section>
+          <section title="Esau's Lost Hope">
+            <verse num=""></verse>
+          </section>
+          <section title="Jacob Escapes from Esau">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="28">
-          <section title="">
+          <section continued="true">
+            <verse num=""></verse>
+          </section>
+          <section title="Esau Marries Mahalath">
+            <verse num=""></verse>
+          </section>
+          <section title="Jacob's Vow at Bethel">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="29">
-          <section title="">
+          <section title="Jacob Meets Rachel">
+            <verse num=""></verse>
+          </section>
+          <section title="Jacob Marries Leah and Rachel">
+            <verse num=""></verse>
+          </section>
+          <section title="The Children of Jacob">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="30">
-          <section title="">
+          <section contiued="true">
+            <verse num=""></verse>
+          </section>
+          <section title="Jacob's Agreement with Laban">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="31">
-          <section title="">
+          <section title="Jacob Flees from Laban">
+            <verse num=""></verse>
+          </section>
+          <section title="Laban Pursues Jacob">
+            <verse num=""></verse>
+          </section>
+          <section title="Laban's Covenant with Jacob">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="32">
-          <section title="">
+          <section title="Esau Comes to Meet Jacob">
+            <verse num=""></verse>
+          </section>
+          <section title="Wrestling with God">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="33">
-          <section title="">
+          <section title="Jacob and Esau Meet">
+            <verse num=""></verse>
+          </section>
+          <section title="Jacob Comes to Canaan">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="34">
-          <section title="">
+          <section title="The Dinah Incident">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="35">
-          <section title="">
+          <section title="Jacob's Return to Bethel">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="36">
-          <section title="">
+          <section title="Death of Rachel">
+            <verse num=""></verse>
+          </section>
+          <section title="Jacob's Twelve Sons">
+            <verse num=""></verse>
+          </section>
+          <section title="Death of Isaac">
             <verse num=""></verse>
           </section>
         </chapter>
@@ -257,102 +356,171 @@
       </book>
       <book date-began="" date-complete="" chapters="40" title="Exodus">
         <chapter read="" date-read="" num="1">
-          <section title="">
+          <section title="Israel's Suffering in Egypt">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="2">
-          <section title="">
+          <section title="Moses Is Born">
+            <verse num=""></verse>
+          </section>
+          <section title="Moses Flees to Midian">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="3">
-          <section title="">
+          <section title="Moses at the Burning Bush">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="4">
-          <section title="">
+          <section title="Miraculous Signs for Pharaoh">
+            <verse num=""></verse>
+          </section>
+          <section title="Moses Goes to Egypt">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="5">
-          <section title="">
+          <section title="First Encounter with Pharaoh">
+            <verse num=""></verse>
+          </section>
+          <section title="Israel's Deliverance Assured">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="6">
-          <section title="">
+          <section continued="true">
+            <verse num=""></verse>
+          </section>
+          <section title="The Family of Moses and Aaron">
+            <verse num=""></verse>
+          </section>
+          <section title="Aaron Is Moses's Spokesman">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="7">
-          <section title="">
+          <section continued="true">
+            <verse num=""></verse>
+          </section>
+          <section title="Aaron's Miraculous Rod">
+            <verse num=""></verse>
+          </section>
+          <section title="The First Plague: Waters Become Blood">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="8">
-          <section title="">
+          <section title="The Second Plague: Frogs">
+            <verse num=""></verse>
+          </section>
+          <section title="The Third Plague: Lice">
+            <verse num=""></verse>
+          </section>
+          <section title="The Fourth Plague: Flies">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="9">
-          <section title="">
+          <section title="The Fifth Plague: Livestock Diseased">
+            <verse num=""></verse>
+          </section>
+          <section title="The Sixth Plague: Boils">
+            <verse num=""></verse>
+          </section>
+          <section title="The Seventh Plague: Hail">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="10">
-          <section title="">
+          <section title="The Eighth Plague: Locusts">
+            <verse num=""></verse>
+          </section>
+          <section title="The Ninth Plague: Darkness">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="11">
-          <section title="">
+          <section title="Death of the Firstborn Announced">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="12">
-          <section title="">
+          <section title="The Passover Instituted">
+            <verse num=""></verse>
+          </section>
+          <section title="The Tenth Plague: Death of the Firstborn">
+            <verse num=""></verse>
+          </section>
+          <section title="The Exodus">
+            <verse num=""></verse>
+          </section>
+          <section title="Passover Regulations">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="13">
-          <section title="">
+          <section title="The Firstborn Consecrated">
+            <verse num=""></verse>
+          </section>
+          <section title="The Feast of Unleavened Bread">
+            <verse num=""></verse>
+          </section>
+          <section title="The Law of the Firstborn">
+            <verse num=""></verse>
+          </section>
+          <section title="The Wilderness Way">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="14">
-          <section title="">
+          <section title="The Red Sea Crossing">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="15">
-          <section title="">
+          <section title="The Song of Moses">
+            <verse num=""></verse>
+          </section>
+          <section title="The Song of Miriam">
+            <verse num=""></verse>
+          </section>
+          <section title="Bitter Waters Made Sweet">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="16">
-          <section title="">
+          <section title="Bread from Heaven">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="17">
-          <section title="">
+          <section title="Water from the Rock">
+            <verse num=""></verse>
+          </section>
+          <section title="Victory over the Amalekites">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="18">
-          <section title="">
+          <section title="Jethro’s Advice">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="19">
-          <section title="">
+          <section title="Israel at Mount Sinai">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="20">
-          <section title="">
+          <section title="The Ten Commandments">
+            <verse num=""></verse>
+          </section>
+          <section title="The People Afraid of God’s Presence">
+            <verse num=""></verse>
+          </section>
+          <section title="The Law of the Altar">
             <verse num=""></verse>
           </section>
         </chapter>
@@ -428,204 +596,372 @@
           </section>
         </chapter>
         <chapter read="" date-read="" num="28">
-          <section title="">
+          <section title="Garments for the Priesthood">
+            <verse num=""></verse>
+          </section>
+          <section title="The Ephod">
+            <verse num=""></verse>
+          </section>
+          <section title="The Breastplate">
+            <verse num=""></verse>
+          </section>
+          <section title="Other Priestly Garments">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="29">
-          <section title="">
+          <section title="Aaron and His Sons Consecrated">
+            <verse num=""></verse>
+          </section>
+          <section title="The Daily Offerings">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="30">
-          <section title="">
+          <section title="The Altar of Incense">
+            <verse num=""></verse>
+          </section>
+          <section title="The Ransom Money">
+            <verse num=""></verse>
+          </section>
+          <section title="The Bronze Laver">
+            <verse num=""></verse>
+          </section>
+          <section title="The Holy Anointing Oil">
+            <verse num=""></verse>
+          </section>
+          <section title="The Incense">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="31">
-          <section title="">
+          <section title="Artisans for Building the Tabernacle">
+            <verse num=""></verse>
+          </section>
+          <section title="The Sabbath Law">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="32">
-          <section title="">
+          <section title="The Gold Calf">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="33">
-          <section title="">
+          <section title="The Command to Leave Sinai">
+            <verse num=""></verse>
+          </section>
+          <section title="Moses Meets with the LORD">
+            <verse num=""></verse>
+          </section>
+          <section title="The Promise of God's Presence">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="34">
-          <section title="">
+          <section title="Moses Makes New Tablets">
+            <verse num=""></verse>
+          </section>
+          <section title="The Covenant Renewed">
+            <verse num=""></verse>
+          </section>
+          <section title="The Shining Face of Moses">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="35">
-          <section title="">
+          <section title="Sabbath Regulations">
+            <verse num=""></verse>
+          </section>
+          <section title="Offerings for the Tabernacle">
+            <verse num=""></verse>
+          </section>
+          <section title="Articles of the Tabernacle">
+            <verse num=""></verse>
+          </section>
+          <section title="The Tabernacle Offerings Presented">
+            <verse num=""></verse>
+          </section>
+          <section title="The Artisans Called by God">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="36">
-          <section title="">
+          <section continued="true">
+            <verse num=""></verse>
+          </section>
+          <section title="The People Give More than Enough">
+            <verse num=""></verse>
+          </section>
+          <section title="Building the Tabernacle">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="37">
-          <section title="">
+          <section title="Making the Ark of the Testimony">
+            <verse num=""></verse>
+          </section>
+          <section title="Making the Table for the Showbread">
+            <verse num=""></verse>
+          </section>
+          <section title="Making the Gold Lampstand">
+            <verse num=""></verse>
+          </section>
+          <section title="Making the Altar of Incense">
+            <verse num=""></verse>
+          </section>
+          <section title="Making the Anointing Oil and the Incense">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="38">
-          <section title="">
+          <section title="Making the Altar of Burnt Offering">
+            <verse num=""></verse>
+          </section>
+          <section title="Making the Bronze Laver">
+            <verse num=""></verse>
+          </section>
+          <section title="Making the Court of the Tabernacle">
+            <verse num=""></verse>
+          </section>
+          <section title="Materials of the Tabernacle">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="39">
-          <section title="">
+          <section title="Making the Garments of the Priesthood">
+            <verse num=""></verse>
+          </section>
+          <section title="Making the Ephod">
+            <verse num=""></verse>
+          </section>
+          <section title="Making the Breastplate">
+            <verse num=""></verse>
+          </section>
+          <section title="Making the Other Priestly Garments">
+            <verse num=""></verse>
+          </section>
+          <section title="The Work Completed">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="40">
-          <section title="">
+          <section title="The Tabernacle Erected and Arranged">
             <verse num=""></verse>
           </section>
         </chapter>
       </book>
       <book date-began="" date-complete="" chapters="27" title="Leviticus">
         <chapter read="" date-read="" num="1">
-          <section title="">
+          <section title="The Burnt Offering">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="2">
-          <section title="">
+          <section title="The Grain Offering">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="3">
-          <section title="">
+          <section title="The Peace Offering">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="4">
-          <section title="">
+          <section title="The Sin Offering">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="5">
-          <section title="">
+          <section title="The Trespass Offering">
+            <verse num=""></verse>
+          </section>
+          <section title="Offerings with Restitution">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="6">
-          <section title="">
+          <section continued="true">
+            <verse num=""></verse>
+          </section>
+          <section title="The Law of the Burt Offering">
+            <verse num=""></verse>
+          </section>
+          <section title="The Law of the Grain Offering">
+            <verse num=""></verse>
+          </section>
+          <section title="The Law of the Sin Offering">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="7">
-          <section title="">
+          <section title="The Law of the Trespass Offering">
+            <verse num=""></verse>
+          </section>
+          <section title="The Law of Peace Offerings">
+            <verse num=""></verse>
+          </section>
+          <section title="Fat and Blood May Not Be Eaten">
+            <verse num=""></verse>
+          </section>
+          <section title="The Portion of Aaron and His Sons">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="8">
-          <section title="">
+          <section title="Aaron and His Sons Consecrated">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="9">
-          <section title="">
+          <section title="The Priestly Ministry Begins">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="10">
-          <section title="">
+          <section title="The Profane Fire of Nadab and Abihu">
+            <verse num=""></verse>
+          </section>
+          <section title="Conduct Prescribed for Priests">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="11">
-          <section title="">
+          <section title="Foods Permitted and Forbidden">
+            <verse num=""></verse>
+          </section>
+          <section title="Unclean Animals">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="12">
-          <section title="">
+          <section title="The Ritual After Childbirth">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="13">
-          <section title="">
+          <section title="The Law Concerning Leprosy">
+            <verse num=""></verse>
+          </section>
+          <section title="The Law Concerning Leprous Garments">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="14">
-          <section title="">
+          <section title="The Ritual for Cleansing Healed Lepers">
+            <verse num=""></verse>
+          </section>
+          <section title="The Law Concerning Leprous Houses">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="15">
-          <section title="">
+          <section title="The Law Concerning Bodily Discharges">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="16">
-          <section title="">
+          <section title="The Day of Atonement">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="17">
-          <section title="">
+          <section title="The Sanctity of Blood">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="18">
-          <section title="">
+          <section title="Laws of Sexual Morality">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="19">
-          <section title="">
+          <section title="Moral and Ceremonial Laws">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="20">
-          <section title="">
+          <section title="Penalties for Breaking the Law">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="21">
-          <section title="">
+          <section title="Regulations for Conduct of Priests">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="22">
-          <section title="">
+          <section continued="true">
+            <verse num=""></verse>
+          </section>
+          <section title="Offerings Accepted and Not Accepted">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="23">
-          <section title="">
+          <section title="Feasts of the LORD">
+            <verse num=""></verse>
+          </section>
+          <section title="The Sabbath">
+            <verse num=""></verse>
+          </section>
+          <section title="The Passover and Unleavened Bread">
+            <verse num=""></verse>
+          </section>
+          <section title="The Feast of Firstfruits">
+            <verse num=""></verse>
+          </section>
+          <section title="The Feast of Weeks">
+            <verse num=""></verse>
+          </section>
+          <section title="The Feast of Trumpets">
+            <verse num=""></verse>
+          </section>
+          <section title="The Day of Atonement">
+            <verse num=""></verse>
+          </section>
+          <section title="The Feast of Tabernacles">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="24">
-          <section title="">
+          <section title="Care of the Tabernacle Lamps">
+            <verse num=""></verse>
+          </section>
+          <section title="The Bread of the Tabernacle">
+            <verse num=""></verse>
+          </section>
+          <section title="The Penalty for Blasphemy">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="25">
-          <section title="">
+          <section title="The Sabbath of the Seventh Year">
+            <verse num=""></verse>
+          </section>
+          <section title="The Year of Jubilee">
+            <verse num=""></verse>
+          </section>
+          <section title="Provisions for the Seventh Year">
+            <verse num=""></verse>
+          </section>
+          <section title="Redemption of Property">
+            <verse num=""></verse>
+          </section>
+          <section title="Lending to the Poor">
+            <verse num=""></verse>
+          </section>
+          <section title="The Law Concerning Slavery">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="26">
-          <section title="">
+          <section title="Promise of Blessing and Retribution">
             <verse num=""></verse>
           </section>
         </chapter>
         <chapter read="" date-read="" num="27">
-          <section title="">
+          <section title="Redeeming Persons and Property Dedicated to God">
             <verse num=""></verse>
           </section>
         </chapter>
@@ -724,7 +1060,7 @@
           <section title="The Seventy Elders">
             <verse num=""></verse>
           </section>
-          <section title="The Lord Sends Quail">
+          <section title="The LORD Sends Quail">
             <verse num=""></verse>
           </section>
         </chapter>
@@ -4623,14 +4959,14 @@
       <book date-began="" date-complete="" chapters="1" title="Obadiah">
         <chapter read="" date-read="" num="1">
           <section title="The Coming Judgment on Edom">
-            <verse num="1">The vision of Obadiah. Thus says the Lord God <ref_list>Is. 21:11; Ezek. 25:12; Joel 3:19; Mal. 1:3</ref_list>concerning Edom <ref_list>Jer. 49:14–16; Obad. 1–4</ref_list>(We have heard a report from the Lord, And a messenger has been sent among the nations, saying, “Arise, and let us rise up against her for battle”):</verse>
+            <verse num="1">The vision of Obadiah. Thus says the LORD God <ref_list>Is. 21:11; Ezek. 25:12; Joel 3:19; Mal. 1:3</ref_list>concerning Edom <ref_list>Jer. 49:14–16; Obad. 1–4</ref_list>(We have heard a report from the LORD, And a messenger has been sent among the nations, saying, “Arise, and let us rise up against her for battle”):</verse>
             <verse num="2">“Behold, I will make you small among the nations; You shall be greatly despised. </verse>
             <verse num="3">The <ref_list>Is. 16:6; Jer. 49:16</ref_list>pride of your heart has deceived you, You who dwell in the clefts of the rock, Whose habitation is high; <ref_list>Is. 14:13–15; Rev. 18:7</ref_list>You who say in your heart, ‘Who will bring me down to the ground?’</verse>
-            <verse num="4"><ref_list>Job 20:6</ref_list>Though you ascend as high as the eagle, And though you <ref_list>Hab. 2:9; Mal. 1:4</ref_list>set your nest among the stars, From there I will bring you down,” says the Lord.</verse>
+            <verse num="4"><ref_list>Job 20:6</ref_list>Though you ascend as high as the eagle, And though you <ref_list>Hab. 2:9; Mal. 1:4</ref_list>set your nest among the stars, From there I will bring you down,” says the LORD.</verse>
             <verse num="5">“If <ref_list>Jer. 49:9</ref_list>thieves had come to you, If robbers by night— Oh, how you will be cut off!— Would they not have stolen till they had enough? If grape-gatherers had come to you, <ref_list>Deut. 24:21</ref_list>Would they not have left some gleanings?</verse>
             <verse num="6">“Oh, how Esau shall be searched out! How his hidden treasures shall be sought after! </verse>
             <verse num="7">All the men in your confederacy hall force you to the border; <ref_list>Jer. 38:22</ref_list>The men at peace with you Shall deceive you and prevail against you. Those who eat your bread shall lay a trap for you. <ref_list>Is. 19:11; Jer. 49:7</ref_list>No one is aware of it.</verse>
-            <verse num="8">“Will<ref_list>(Job 5:12–14); Is. 29:14</ref_list> I not in that day,” says the Lord, “Even destroy the wise men from Edom, And understanding from the mountains of Esau?</verse>
+            <verse num="8">“Will<ref_list>(Job 5:12–14); Is. 29:14</ref_list> I not in that day,” says the LORD, “Even destroy the wise men from Edom, And understanding from the mountains of Esau?</verse>
             <verse num="9">Then your <ref_list>Ps. 76:5</ref_list>mighty men, O <ref_list>Gen. 36:11; 1 Chr. 1:45; Job 2:11; Jer. 49:7</ref_list>Teman, shall be dismayed, To the end that everyone from the mountains of Esau May be cut off by slaughter.</verse>
           </section>
           <section title="Edom Mistreated His Brother">
@@ -4639,15 +4975,15 @@
             <verse num="12">“But you should not have <ref_list>Mic. 4:11; 7:10</ref_list>gazed on the day of your brother In the day of his captivity; Nor should you have <ref_list>(Prov. 17:5); Ezek. 35:15; 36:5</ref_list>rejoiced over the children of Judah In the day of their destruction; Nor should you have spoken proudly In the day of distress.</verse>
             <verse num="13">You should not have entered the gate of My people In the day of their calamity. Indeed, you should not have gazed on their affliction In the day of their calamity, Nor laid hands on their substance In the day of their calamity. </verse>
             <verse num="14">You should not have stood at the crossroads To cut off those among them who escaped; Nor should you have delivered up those among them who remained In the day of distress. </verse>
-            <verse num="15">“For<ref_list>Ezek. 30:3; (Joel 1:15; 2:1, 11, 31; Amos 5:18, 20)</ref_list> the day of the Lord upon all the nations is near; <ref_list>Jer. 50:29; 51:56; Hab. 2:8</ref_list>As you have done, it shall be done to you; Your reprisal shall return upon your own head. </verse>
+            <verse num="15">“For<ref_list>Ezek. 30:3; (Joel 1:15; 2:1, 11, 31; Amos 5:18, 20)</ref_list> the day of the LORD upon all the nations is near; <ref_list>Jer. 50:29; 51:56; Hab. 2:8</ref_list>As you have done, it shall be done to you; Your reprisal shall return upon your own head. </verse>
             <verse num="16"><ref_list>Joel 3:17</ref_list>For as you drank on My holy mountain, So shall all the nations drink continually; Yes, they shall drink, and swallow, And they shall be as though they had never been.</verse>
           </section>
           <section title="Israel’s Final Triumph">
             <verse num="17">“But on Mount Zion there <ref_list>Is. 14:1, 2; Joel 2:32; Amos 9:8</ref_list>shall be deliverance, And there shall be holiness; The house of Jacob shall possess their possessions.</verse>
-            <verse num="18">The house of Jacob shall be a fire, And the house of Joseph <ref_list>Is. 5:24; 9:18, 19; Zech. 12:6</ref_list>a flame; But the house of Esau shall be stubble; They shall kindle them and devour them, And no survivor shall remain of the house of Esau,” For the Lord has spoken.</verse>
+            <verse num="18">The house of Jacob shall be a fire, And the house of Joseph <ref_list>Is. 5:24; 9:18, 19; Zech. 12:6</ref_list>a flame; But the house of Esau shall be stubble; They shall kindle them and devour them, And no survivor shall remain of the house of Esau,” For the LORD has spoken.</verse>
             <verse num="19">The South <ref_list>Is. 11:14; Amos 9:12</ref_list>shall possess the mountains of Esau, <ref_list>Zeph. 2:7</ref_list>And the Lowland shall possess Philistia. They shall possess the fields of Ephraim And the fields of Samaria. Benjamin shall possess Gilead.</verse>
             <verse num="20">And the captives of this host of the children of Israel Shall possess the land of the Canaanites As <ref_list>1 Kin. 17:9; Luke 4:26</ref_list>far as Zarephath. The captives of Jerusalem who are in Sepharad <ref_list>Jer. 32:44</ref_list>Shall possess the cities of the South.</verse>
-            <verse num="21">Then <ref_list>(James 5:20)</ref_list>saviors shall come to Mount Zion To judge the mountains of Esau, And the <ref_list>Ps. 22:28; (Dan. 2:44; 7:14; Zech. 14:9; Rev. 11:15)</ref_list>kingdom shall be the Lord’s.</verse>
+            <verse num="21">Then <ref_list>(James 5:20)</ref_list>saviors shall come to Mount Zion To judge the mountains of Esau, And the <ref_list>Ps. 22:28; (Dan. 2:44; 7:14; Zech. 14:9; Rev. 11:15)</ref_list>kingdom shall be the LORD’s.</verse>
           </section>
         </chapter>
       </book>
@@ -5069,7 +5405,7 @@
           </section>
         </chapter>
         <chapter read="" date-read="" num="12">
-          <section title="Jesus Is Lord of the Sabbath">
+          <section title="Jesus Is LORD of the Sabbath">
             <verse num=""></verse>
           </section>
           <section title="Healing on the Sabbath">
@@ -6094,11 +6430,11 @@
           <section title="Greeting">
             <verse num="1">Paul, a <ref_list>Eph. 3:1</ref_list>prisoner of Christ Jesus, and Timothy our brother, To Philemon our beloved friend and fellow laborer, </verse>
             <verse num="2">to the beloved Apphia, <ref_list>Col. 4:17</ref_list>Archippus our fellow soldier, and to the church in your house: </verse>
-            <verse num="3">Grace to you and peace from God our Father and the Lord Jesus Christ. </verse>
+            <verse num="3">Grace to you and peace from God our Father and the LORD Jesus Christ. </verse>
           </section>
           <section title="Philemon’s Love and Faith">
             <verse num="4"><ref_list>Eph. 1:16; 1 Thess. 1:22; Thess. 1:3</ref_list>I thank my God, making mention of you always in my prayers, </verse>
-            <verse num="5"><ref_list>Eph. 1:15; Col. 1:4; 1 Thess. 3:6</ref_list>hearing of your love and faith which you have toward the Lord Jesus and toward all the saints, </verse>
+            <verse num="5"><ref_list>Eph. 1:15; Col. 1:4; 1 Thess. 3:6</ref_list>hearing of your love and faith which you have toward the LORD Jesus and toward all the saints, </verse>
             <verse num="6">that the sharing of your faith may become effective <ref_list>Phil. 1:9; (Col. 1:9; 3:10; James 2:14–17)</ref_list>by the acknowledgment of <ref_list>(1 Thess. 5:18)</ref_list>every good thing which is in you in Christ Jesus. </verse>
             <verse num="7">For we have great joy and consolation in your love, because the hearts of the saints have been refreshed by you, brother. </verse>
           </section>
@@ -6111,7 +6447,7 @@
             <verse num="13">whom I wished to keep with me, that on your behalf he might minister to me in my chains for the gospel. </verse>
             <verse num="14">But without your consent I wanted to do nothing, <ref_list>2 Cor. 9:7; 1 Pet. 5:2</ref_list>that your good deed might not be by compulsion, as it were, but voluntary. </verse>
             <verse num="15">For perhaps he departed for a while for this purpose, that you might receive him forever, </verse>
-            <verse num="16">no longer as a slave but more than a slave—a beloved brother, especially to me but how much more to you, both in the <ref_list>Eph. 6:5; Col. 3:22</ref_list>flesh and in the Lord. </verse>
+            <verse num="16">no longer as a slave but more than a slave—a beloved brother, especially to me but how much more to you, both in the <ref_list>Eph. 6:5; Col. 3:22</ref_list>flesh and in the LORD. </verse>
           </section>
           <section title="Philemon’s Obedience Encouraged">
             <verse num=""></verse>
