@@ -55,8 +55,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template name="section">
   <xsl:value-of select="section"/>
   <xsl:for-each select="section">
-    <li><xsl:value-of select="@title"/></li>
-    <br style="clear:left;"/>
+    <li>
+      <xsl:value-of select="@title"/>
+    </li>
   </xsl:for-each>
 </xsl:template>
 
