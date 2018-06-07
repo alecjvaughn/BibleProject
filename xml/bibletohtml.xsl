@@ -37,12 +37,26 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template name="chapter">
   <xsl:value-of select="chapter"/>
   <xsl:for-each select="chapter">
-    <xsl:if test="@read='true'">
+    <section>
+      <h3><xsl:value-of select="@num"/></h3>
+      <ul style="width:30em;">
+        <xsl:call-template name="section"/>
+      </ul>
+    </section>
+    <!-- <xsl:if test="@read='true'">
       <li style="float:left;width:3em;"><input type="checkbox" checked="true"/></li>
     </xsl:if>
     <xsl:if test="@read!='yes'">
       <li style="float:left;width:3em;"><input type="checkbox"/></li>
-    </xsl:if>
+    </xsl:if> -->
+  </xsl:for-each>
+</xsl:template>
+
+<xsl:template name="section">
+  <xsl:value-of select="section"/>
+  <xsl:for-each select="section">
+    <li><xsl:value-of select="@title"/></li>
+    <br style="clear:left;"/>
   </xsl:for-each>
 </xsl:template>
 
