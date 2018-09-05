@@ -155,94 +155,98 @@
     </biblical>
     <extra_biblical>
       <books_of_the_bible>
-        <collection name="OT">
-          <collection name="Pentateuch">
-            <book date-composed="1445-1405 BC" dates-covered=">4000-1806 BC" title="Genesis"/>
-            <book date-composed="1445-1405 BC" dates-covered="1800-1445 BC" title="Exodus"/>
-            <book date-composed="1445-1405 BC" dates-covered="1445 BC" title="Leviticus"/>
-            <book date-composed="1445-1405 BC" dates-covered="1445-1407 BC" title="Numbers"/>
-            <book date-composed="1445-1405 BC" dates-covered="1407-1406 BC" title="Deuteronomy"/>
+        <bc>
+          <collection name="OT">
+            <collection name="Pentateuch">
+              <book title="Genesis" date-composed="1445-1405" dates-covered=">4000-1806"/>
+              <book title="Exodus" date-composed="1445-1405" dates-covered="1800-1445"/>
+              <book title="Leviticus" date-composed="1445-1405" dates-covered="1445"/>
+              <book title="Numbers" date-composed="1445-1405" dates-covered="1445-1407"/>
+              <book title="Deuteronomy" date-composed="1445-1405" dates-covered="1407-1406"/>
+            </collection>
+            <collection name="History">
+              <book title="Joshua" date-composed="1405-1385" dates-covered="1406-1375"/>
+              <book title="Judges" date-composed="1043" dates-covered="1375-1075"/>
+              <book title="Ruth" date-composed="1030-1010" dates-covered="1140"/>
+              <book title="1 Samuel" date-composed="931-722" dates-covered="1100-1010"/>
+              <book title="2 Samuel" date-composed="931-722" dates-covered="1010-970"/>
+              <book title="1 Kings" date-composed="561-538" dates-covered="970-853"/>
+              <book title="2 Kings" date-composed="561-538" dates-covered="852-586"/>
+              <book title="1 Chronicles" date-composed="450-430" dates-covered="1003-970"/>
+              <book title="2 Chronicles" date-composed="450-430" dates-covered="967-609"/>
+              <book title="Ezra" date-composed="457-444" dates-covered="537-456"/>
+              <book title="Nehemiah" date-composed="424-400" dates-covered="445-432"/>
+              <book title="Esther" date-composed="450-331" dates-covered="483-472"/>
+            </collection>
+            <collection name="Wisdom">
+              <book title="Job" date-composed="Unknown" dates-covered=">2100"/>
+              <book title="Psalms" date-composed="1410-450" dates-covered="1407-586"/>
+              <book title="Proverbs" date-composed="971-686" dates-covered="950"/>
+              <book title="Ecclesiastes" date-composed="940-931" dates-covered="937"/>
+              <book title="Song of Solomon" date-composed="971-965" dates-covered="950"/>
+            </collection>
+            <collection name="Prophecy">
+              <book title="Isaiah" date-composed="700-681" dates-covered="739-701"/>
+              <book title="Jeremiah" date-composed="586-570" dates-covered="627-586"/>
+              <book title="Lamentations" date-composed="586" dates-covered="586"/>
+              <book title="Ezekiel" date-composed="590-570" dates-covered="593-573"/>
+              <book title="Daniel" date-composed="536-530" dates-covered="605-539"/>
+              <book title="Hosea" date-composed="750-710" dates-covered="753"/>
+              <book title="Joel" date-composed="835-796" dates-covered="835"/>
+              <book title="Amos" date-composed="750" dates-covered="766"/>
+              <book title="Obadiah" date-composed="850-840" dates-covered="853"/>
+              <book title="Jonah" date-composed="775" dates-covered="760"/>
+              <book title="Micah" date-composed="735-710" dates-covered="735"/>
+              <book title="Nahum" date-composed="650" dates-covered="697"/>
+              <book title="Habakkuk" date-composed="615-605" dates-covered="625"/>
+              <book title="Zephaniah" date-composed="635-625" dates-covered="638"/>
+              <book title="Haggai" date-composed="520" dates-covered="520"/>
+              <book title="Zechariah" date-composed="480-470" dates-covered="520"/>
+              <book title="Malachi" date-composed="433-424" dates-covered="430"/>
+            </collection>
           </collection>
-          <collection name="History">
-            <book date-composed="1405-1385 BC" dates-covered="1406-1375 BC" chapters="24" title="Joshua"/>
-            <book date-composed="1043 BC" dates-covered="1375-1075 BC" chapters="21" title="Judges"/>
-            <book date-composed="1030-1010" dates-covered="1140 BC" chapters="4" title="Ruth"/>
-            <book date-composed="931-722 BC" dates-covered="1100-1010 BC" chapters="31" title="1 Samuel"/>
-            <book date-composed="931-722 BC" dates-covered="1010-970 BC" chapters="24" title="2 Samuel"/>
-            <book date-composed="561-538 BC" dates-covered="970-853 BC" chapters="22" title="1 Kings"/>
-            <book date-composed="561-538 BC" dates-covered="852-586 BC" chapters="25" title="2 Kings"/>
-            <book date-composed="450-430 BC" dates-covered="1003-970 BC" chapters="29" title="1 Chronicles"/>
-            <book date-composed="450-430 BC" dates-covered="967-609 BC" chapters="36" title="2 Chronicles"/>
-            <book date-composed="457-444 BC" dates-covered="537-456 BC" chapters="10" title="Ezra"/>
-            <book date-composed="424-400 BC" dates-covered="445-432 BC" chapters="13" title="Nehemiah"/>
-            <book date-composed="450-331 BC" dates-covered="483-472 BC" chapters="10" title="Esther"/>
+        </bc>
+        <ad>
+          <collection name="NT">
+            <collection name="Gospels">
+              <book title="Matthew" date-composed="50-60" dates-covered="5 BC-30"/>
+              <book title="Mark" date-composed="50-60" dates-covered="5 BC-30"/>
+              <book title="Luke" date-composed="60-61" dates-covered="6 BC-30"/>
+              <book title="John" date-composed="80-90" dates-covered="6 BC-30"/>
+            </collection>
+            <collection name="History">
+              <book title="Acts" date-composed="62" dates-covered="30-62"/>
+            </collection>
+            <collection name="Pauline epistles">
+              <book title="Romans" date-composed="56" dates-covered="57"/>
+              <book title="1 Corinthians" date-composed="55" dates-covered="54"/>
+              <book title="2 Corinthians" date-composed="55-56" dates-covered="57"/>
+              <book title="Galatians" date-composed="49-50" dates-covered="54"/>
+              <book title="Ephesians" date-composed="60-62" dates-covered="62"/>
+              <book title="Philippians" date-composed="60-62" dates-covered="62"/>
+              <book title="Colossians" date-composed="60-62" dates-covered="62"/>
+              <book title="1 Thessalonians" date-composed="51" dates-covered="51"/>
+              <book title="2 Thessalonians" date-composed="51-52" dates-covered="52"/>
+              <book title="1 Timothy" date-composed="62-64" dates-covered="63"/>
+              <book title="2 Timothy" date-composed="66-67" dates-covered="67"/>
+              <book title="Titus" date-composed="62-64" dates-covered="66"/>
+              <book title="Philemon" date-composed="60-62" dates-covered="62"/>
+            </collection>
+            <collection name="General epistles">
+              <book title="Hebrews" date-composed="67-69" dates-covered="68"/>
+              <book title="James" date-composed="44-49" dates-covered="45"/>
+              <book title="1 Peter" date-composed="64-65" dates-covered="64"/>
+              <book title="2 Peter" date-composed="67-68" dates-covered="67"/>
+              <book title="1 John" date-composed="90-95" dates-covered="90"/>
+              <book title="2 John" date-composed="90-95" dates-covered="92"/>
+              <book title="3 John" date-composed="90-95" dates-covered="94"/>
+              <book title="Jude" date-composed="68-70" dates-covered="68"/>
+            </collection>
+            <collection name="Prophecy">
+              <book title="Revalation" date-composed="94-96" dates-covered="95">
+            </collection>
           </collection>
-          <collection name="Wisdom">
-            <book date-composed="Unknown" dates-covered=">2100 BC" chapters="42" title="Job"/>
-            <book date-composed="1410-450 BC" dates-covered="1407-586 BC" chapters="150" title="Psalms"/>
-            <book date-composed="971-686 BC" dates-covered="950 BC" chapters="31" title="Proverbs"/>
-            <book date-composed="940-931 BC" dates-covered="937 BC" chapters="12" title="Ecclesiastes"/>
-            <book date-composed="971-965 BC" dates-covered="950 BC" chapters="8" title="Song of Solomon"/>
-          </collection>
-          <collection name="Prophecy">
-            <book date-composed="700-681" dates-covered="739-701 BC" chapters="66" title="Isaiah"/>
-            <book date-composed="586-570" dates-covered="627-586 BC" chapters="52" title="Jeremiah"/>
-            <book date-composed="586" dates-covered="586 BC" chapters="5" title="Lamentations"/>
-            <book date-composed="590-570" dates-covered="593-573 BC" chapters="48" title="Ezekiel"/>
-            <book date-composed="536-530" dates-covered="605-539 BC" chapters="12" title="Daniel"/>
-            <book date-composed="750-710" dates-covered="753 BC" chapters="14" title="Hosea"/>
-            <book date-composed="835-796" dates-covered="835 BC" chapters="3" title="Joel"/>
-            <book date-composed="750" dates-covered="766 BC" chapters="9" title="Amos"/>
-            <book date-composed="850-840" dates-covered="853 BC" chapters="1" title="Obadiah"/>
-            <book date-composed="775" dates-covered="760 BC" chapters="4" title="Jonah"/>
-            <book date-composed="735-710" dates-covered="735 BC" chapters="7" title="Micah"/>
-            <book date-composed="650" dates-covered="697 BC" chapters="3" title="Nahum"/>
-            <book date-composed="615-605" dates-covered="625 BC" chapters="3" title="Habakkuk"/>
-            <book date-composed="635-625" dates-covered="638 BC" chapters="3" title="Zephaniah"/>
-            <book date-composed="520" dates-covered="520 BC" chapters="2" title="Haggai"/>
-            <book date-composed="480-470" dates-covered="520 BC" chapters="14" title="Zechariah"/>
-            <book date-composed="433-424" dates-covered="430 BC" chapters="4" title="Malachi"/>
-          </collection>
-        </collection>
-        <collection name="NT">
-          <collection name="Gospels">
-            <book date-composed="50-60 AD" dates-covered="5 BC-30 AD" chapters="28" title="Matthew"/>
-            <book date-composed="50-60 AD" dates-covered="5 BC-30 AD" chapters="16" title="Mark"/>
-            <book date-composed="60-61 AD" dates-covered="6 BC-30 AD" chapters="24" title="Luke"/>
-            <book date-composed="80-90 AD" dates-covered="6 BC-30 AD" chapters="21" title="John"/>
-          </collection>
-          <collection name="History">
-            <book date-composed="62 AD" dates-covered="30-62 AD" chapters="28" title="Acts"/>
-          </collection>
-          <collection name="Pauline epistles">
-            <book date-composed="56 AD" dates-covered="57 AD" chapters="16" title="Romans"/>
-            <book date-composed="55 AD" dates-covered="54 AD" chapters="16" title="1 Corinthians"/>
-            <book date-composed="55-56 AD" dates-covered="57 AD" chapters="13" title="2 Corinthians"/>
-            <book date-composed="49-50 AD" dates-covered="54 AD" chapters="6" title="Galatians"/>
-            <book date-composed="60-62 AD" dates-covered="62 AD" chapters="6" title="Ephesians"/>
-            <book date-composed="60-62 AD" dates-covered="62 AD" chapters="4" title="Philippians"/>
-            <book date-composed="60-62 AD" dates-covered="62 AD" chapters="4" title="Colossians"/>
-            <book date-composed="51 AD" dates-covered="51 AD" chapters="5" title="1 Thessalonians"/>
-            <book date-composed="51-52 AD" dates-covered="52 AD" chapters="3" title="2 Thessalonians"/>
-            <book date-composed="62-64 AD" dates-covered="63 AD" chapters="6" title="1 Timothy"/>
-            <book date-composed="66-67 AD" dates-covered="67 AD" chapters="4" title="2 Timothy"/>
-            <book date-composed="62-64 AD" dates-covered="66 AD" chapters="3" title="Titus"/>
-            <book date-composed="60-62 AD" dates-covered="62 AD" chapters="1" title="Philemon"/>
-          </collection>
-          <collection name="General epistles">
-            <book date-composed="67-69 AD" dates-covered="68 AD" chapters="13" title="Hebrews"/>
-            <book date-composed="44-49 AD" dates-covered="45 AD" chapters="5" title="James"/>
-            <book date-composed="64-65 AD" dates-covered="64 AD" chapters="5" title="1 Peter"/>
-            <book date-composed="67-68 AD" dates-covered="67 AD" chapters="3" title="2 Peter"/>
-            <book date-composed="90-95 AD" dates-covered="90 AD" chapters="5" title="1 John"/>
-            <book date-composed="90-95 AD" dates-covered="92 AD" chapters="1" title="2 John"/>
-            <book date-composed="90-95 AD" dates-covered="94 AD" chapters="1" title="3 John"/>
-            <book date-composed="68-70 AD" dates-covered="68 AD" chapters="1" title="Jude"/>
-          </collection>
-          <collection name="Prophecy">
-            <book date-composed="94-96 AD" dates-covered="95 AD" chapters="22" title="Revelation">
-          </collection>
-        </collection>
+        </ad>
       </books_of_the_bible>
     </extra_biblical>
     <post_biblical>
